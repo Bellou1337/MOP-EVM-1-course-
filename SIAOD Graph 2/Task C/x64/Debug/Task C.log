@@ -1,0 +1,7 @@
+﻿  Task C.cpp
+C:\something\projects\SIAOD Graph 2\Task C\Task C.cpp(28,12): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
+C:\something\projects\SIAOD Graph 2\Task C\Task C.cpp(32,27): warning C4018: '<': signed/unsigned mismatch
+C:\something\projects\SIAOD Graph 2\Task C\Task C.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\something\projects\SIAOD Graph 2\Task C\Task C.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+C:\something\projects\SIAOD Graph 2\Task C\Task C.cpp(58,30): warning C4018: '<': signed/unsigned mismatch
+  Task C.vcxproj -> C:\something\projects\SIAOD Graph 2\x64\Debug\Task C.exe
